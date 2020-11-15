@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "261384690690",
+    "firebase_url": "https://smkdev-hospital.firebaseio.com",
+    "project_id": "smkdev-hospital",
+    "storage_bucket": "smkdev-hospital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261384690690:android:705d9cfb1644d06266db1b",
+        "android_client_info": {
+          "package_name": "com.example.hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261384690690-03psbo4vkv0rsjqtr1k1fipi3re9d52b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCctFnTP9DzfJfbijAkINLExJW1bBxyr5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261384690690-03psbo4vkv0rsjqtr1k1fipi3re9d52b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
